@@ -1,64 +1,61 @@
-## Hi there 👋
 
-# Hello, I'm David
-<a href="www.linkedin.com/david-nataren-171076203"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 🔒 Hello, I'm David
 
+I am a dedicated college student pursuing a career in cybersecurity, this repository showcases my coursework, skills, and projects as I continue to develop my expertise in information security.
 
-I am currently enrolled at Pitt Commuinity studying CyberSecurity and dedicated 
+---
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 📜 About Me
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+- **Name:** David Nataren
+- **Location:** Grifton, NC
+- **Email:** dnataren24@gmail.com
+- **LinkedIn:** [![LinkedIn Profile](https://raw.githubusercontent.com/davidnataren/davidnataren/main/linkedin.png)](https://www.linkedin.com/in/david-nataren-171076203)
+- **GitHub:** [DavidNa1's GitHub](https://github.com/DavidNa1)
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+I am a cybersecurity student passionate about ethical hacking, networking, and information security. My strengths include analytical problem-solving, attention to detail, collaboration, and a commitment to continuous learning. I value integrity, confidentiality, and the ethical use of technology to protect sensitive information. By leveraging my skills and values, I aim to help organizations strengthen their security posture, mitigate cyber threats, and ensure the protection of critical data and infrastructure.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+---
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🎓 Education
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+- **Pitt Community College** – CyberSecurity – 2026
+- Relevant Coursework: 
+  - Network Security
+  - Ethical Hacking
+  - Computer Programming (Python, SQL, HTML, CSS)
+  - Cybersecurity Fundamentals
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## 🛠 Skills & Learning Areas
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+- **Penetration Testing Fundamentals**
+- **Network Security Basics**
+- **Programming & Scripting (Python, SQL, HTML, CSS)**
+- **Operating Systems (Windows, Linux, Kali)**
+- **Cybersecurity Compliance & Best Practices**
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+---
+
+## 🔐 Certifications & Training (In Progress or Completed)
+
+- Foundations of Cybersecurity – Google – In Progress]
+- Networking Essentials – Cisco – 2023
+
+---
+
+---
+
+## 🚀 How to Reach Me
+
+If you’d like to connect, collaborate, or discuss cybersecurity topics, feel free to reach out!
+
+📧 Email: dnataren24@gmail.com  
+💼 LinkedIn: [![LinkedIn Profile](https://raw.githubusercontent.com/davidnataren/davidnataren/main/linkedin.png)](https://www.linkedin.com/in/david-nataren-171076203)  
 
 
--->
+---
+
+Thank you for visiting my cybersecurity portfolio!
+
